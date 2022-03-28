@@ -1,0 +1,21 @@
+.body_background {
+    background-position: center;
+    background-size:cover;
+    background-image: url("bg1.jpg");
+}
+
+h1{
+    color:blue;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#myCanvas {
+ border-width:10px;
+ background-color: aliceblue;
+ border-style: ridge;
+}
+
+span {
+    font-size: 20px;
+}
